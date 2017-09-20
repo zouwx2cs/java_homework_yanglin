@@ -1,0 +1,476 @@
+2017-09-19 16:55:15: [ Starting server... ]
+2017-09-19 16:56:04: Socket[addr=/0:0:0:0:0:0:0:1,port=53398,localport=12345]connected.
+2017-09-19 17:19:55: Err java.net.SocketTimeoutException: Read timed out
+2017-09-19 17:20:23: [ Starting server... ]
+2017-09-19 17:20:31: Socket[addr=/0:0:0:0:0:0:0:1,port=53412,localport=12345]connected.
+2017-09-19 17:20:43: Err java.net.SocketTimeoutException: Read timed out
+2017-09-19 17:20:51: [ Starting server... ]
+2017-09-19 17:21:06: Socket[addr=/0:0:0:0:0:0:0:1,port=53424,localport=12345]connected.
+2017-09-19 20:20:59: [ Starting server... ]
+2017-09-19 20:21:11: [ Starting server... ]
+2017-09-19 20:21:48: Socket[addr=/127.0.0.1,port=37524,localport=12345]connected.
+2017-09-19 20:22:47: Err java.net.SocketTimeoutException: Read timed out
+2017-09-19 20:22:47: Socket[addr=/127.0.0.1,port=37530,localport=12345]connected.
+2017-09-19 21:06:13: [ Starting server... ]
+2017-09-19 21:06:45: Socket[addr=/127.0.0.1,port=38170,localport=12345]connected.
+2017-09-19 21:15:55: [ Starting server... ]
+2017-09-19 21:15:58: Socket[addr=/127.0.0.1,port=38194,localport=12345]connected.
+2017-09-19 21:22:36: [ Starting server... ]
+2017-09-19 21:22:40: Socket[addr=/127.0.0.1,port=38202,localport=12345]connected.
+2017-09-20 00:02:45: [ Starting server... ]
+2017-09-20 00:02:50: Socket[addr=/127.0.0.1,port=52161,localport=12345]connected.
+2017-09-20 00:02:50: Socket[addr=/127.0.0.1,port=52162,localport=12345]connected.
+2017-09-20 00:04:45: [ Starting server... ]
+2017-09-20 00:04:48: Socket[addr=/127.0.0.1,port=52226,localport=12345]connected.
+2017-09-20 00:04:48: Socket[addr=/127.0.0.1,port=52227,localport=12345]connected.
+2017-09-20 08:18:08: [ Starting server... ]
+2017-09-20 08:18:12: Socket[addr=/127.0.0.1,port=52342,localport=12345]connected.
+2017-09-20 08:18:12: Socket[addr=/127.0.0.1,port=52343,localport=12345]connected.
+2017-09-20 08:19:53: [ Starting server... ]
+2017-09-20 08:20:01: Socket[addr=/127.0.0.1,port=52374,localport=12345]connected.
+2017-09-20 08:20:01: Socket[addr=/127.0.0.1,port=52375,localport=12345]connected.
+2017-09-20 08:20:29: Socket[addr=/127.0.0.1,port=52381,localport=12345]connected.
+2017-09-20 08:20:39: Err java.net.SocketException: Socket is closed
+2017-09-20 08:20:52: [ Starting server... ]
+2017-09-20 08:20:55: Socket[addr=/127.0.0.1,port=52385,localport=12345]connected.
+2017-09-20 08:20:55: Socket[addr=/127.0.0.1,port=52386,localport=12345]connected.
+2017-09-20 08:20:55: Socket[addr=/127.0.0.1,port=52387,localport=12345]connected.
+2017-09-20 08:20:55: Err java.net.SocketException: Socket is closed
+2017-09-20 08:20:55: Err java.net.SocketException: Socket is closed
+2017-09-20 08:20:55: Err java.net.SocketException: Socket is closed
+2017-09-20 08:20:55: Socket[addr=/127.0.0.1,port=52388,localport=12345]connected.
+2017-09-20 08:20:55: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:00: Socket[addr=/127.0.0.1,port=52391,localport=12345]connected.
+2017-09-20 08:21:00: Socket[addr=/127.0.0.1,port=52392,localport=12345]connected.
+2017-09-20 08:21:00: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:00: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:00: Socket[addr=/127.0.0.1,port=52393,localport=12345]connected.
+2017-09-20 08:21:00: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:34: [ Starting server... ]
+2017-09-20 08:21:34: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 08:21:34: Err [ Program exited. ]
+2017-09-20 08:21:37: Socket[addr=/127.0.0.1,port=52403,localport=12345]connected.
+2017-09-20 08:21:37: Socket[addr=/127.0.0.1,port=52404,localport=12345]connected.
+2017-09-20 08:21:37: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:37: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:37: Socket[addr=/127.0.0.1,port=52405,localport=12345]connected.
+2017-09-20 08:21:37: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:39: Socket[addr=/127.0.0.1,port=52406,localport=12345]connected.
+2017-09-20 08:21:39: Socket[addr=/127.0.0.1,port=52407,localport=12345]connected.
+2017-09-20 08:21:39: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:39: Err java.net.SocketException: Socket is closed
+5]connected.
+2017-09-20 08:21:39: Err java.net.SocketException: Socket is closed
+2017-09-20 08:21:49: [ Starting server... ]
+2017-09-20 08:21:51: Socket[addr=/127.0.0.1,port=52412,localport=12345]connected.
+2017-09-20 08:21:51: Socket[addr=/127.0.0.1,port=52413,localport=12345]connected.
+2017-09-20 08:22:12: [ Starting server... ]
+2017-09-20 08:22:14: Socket[addr=/127.0.0.1,port=52424,localport=12345]connected.
+2017-09-20 08:22:14: Socket[addr=/127.0.0.1,port=52425,localport=12345]connected.
+2017-09-20 08:22:34: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 08:22:57: [ Starting server... ]
+2017-09-20 08:23:02: Socket[addr=/127.0.0.1,port=52435,localport=12345]connected.
+2017-09-20 08:23:47: Socket[addr=/127.0.0.1,port=52453,localport=12345]connected.
+2017-09-20 08:23:56: [ Starting server... ]
+2017-09-20 08:23:59: Socket[addr=/127.0.0.1,port=52463,localport=12345]connected.
+2017-09-20 08:23:59: Socket[addr=/127.0.0.1,port=52464,localport=12345]connected.
+2017-09-20 08:23:59: Err java.net.SocketException: Socket is closed
+2017-09-20 08:24:00: Err java.net.SocketException: Socket is closed
+2017-09-20 08:24:02: Socket[addr=/127.0.0.1,port=52466,localport=12345]connected.
+2017-09-20 08:24:02: Socket[addr=/127.0.0.1,port=52467,localport=12345]connected.
+2017-09-20 08:24:02: Err java.net.SocketException: Socket is closed
+5]connected.
+2017-09-20 08:24:02: Socket[addr=/127.0.0.1,port=52469,localport=12345]connected.
+2017-09-20 08:24:05: Err java.net.SocketException: Socket is closed
+2017-09-20 08:24:22: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 08:24:22: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 08:34:12: [ Starting server... ]
+2017-09-20 08:34:12: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 08:34:12: Err [ Program exited. ]
+2017-09-20 08:34:54: [ Starting server... ]
+2017-09-20 08:34:54: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 08:34:54: Err [ Program exited. ]
+2017-09-20 08:35:06: [ Starting server... ]
+2017-09-20 08:35:15: Socket[addr=/127.0.0.1,port=52661,localport=12345]connected.
+2017-09-20 08:35:15: Socket[addr=/127.0.0.1,port=52662,localport=12345]connected.
+2017-09-20 08:35:15: Socket[addr=/127.0.0.1,port=52663,localport=12345]connected.
+2017-09-20 08:35:41: [ Starting server... ]
+2017-09-20 08:35:43: Socket[addr=/127.0.0.1,port=52669,localport=12345]connected.
+2017-09-20 08:36:50: Socket[addr=/127.0.0.1,port=52682,localport=12345]connected.
+2017-09-20 08:36:52: Err java.net.SocketException: Socket is closed
+2017-09-20 08:37:35: Socket[addr=/127.0.0.1,port=52693,localport=12345]connected.
+2017-09-20 08:38:40: Err java.net.SocketException: Socket is closed
+2017-09-20 08:38:44: Err java.net.SocketException: Socket is closed
+2017-09-20 08:41:56: [ Starting server... ]
+2017-09-20 08:41:59: Socket[addr=/127.0.0.1,port=52747,localport=12345]connected.
+2017-09-20 08:41:59: Err java.net.SocketException: Socket is closed
+2017-09-20 08:50:28: [ Starting server... ]
+2017-09-20 08:50:31: [ Starting server... ]
+2017-09-20 08:50:34: Socket[addr=/127.0.0.1,port=52830,localport=12345]connected.
+2017-09-20 08:50:34: Err java.net.SocketException: Socket is closed
+2017-09-20 08:51:36: [ Starting server... ]
+2017-09-20 08:51:36: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 08:51:36: Err [ Program exited. ]
+2017-09-20 08:51:39: Socket[addr=/127.0.0.1,port=52846,localport=12345]connected.
+2017-09-20 08:51:39: Err java.net.SocketException: Socket is closed
+2017-09-20 08:51:41: Socket[addr=/127.0.0.1,port=52848,localport=12345]connected.
+2017-09-20 08:51:41: Err java.net.SocketException: Socket is closed
+2017-09-20 08:51:43: Socket[addr=/127.0.0.1,port=52851,localport=12345]connected.
+2017-09-20 08:51:43: Err java.net.SocketException: Socket is closed
+2017-09-20 08:52:19: [ Starting server... ]
+2017-09-20 08:52:23: Socket[addr=/127.0.0.1,port=52860,localport=12345]connected.
+2017-09-20 08:52:23: Err java.net.SocketException: Socket is closed
+2017-09-20 08:52:37: Socket[addr=/127.0.0.1,port=52864,localport=12345]connected.
+2017-09-20 08:52:37: Err java.net.SocketException: Socket is closed
+2017-09-20 08:52:53: Socket[addr=/127.0.0.1,port=52889,localport=12345]connected.
+2017-09-20 08:52:53: Err java.net.SocketException: Socket is closed
+2017-09-20 08:52:54: Socket[addr=/127.0.0.1,port=52892,localport=12345]connected.
+2017-09-20 08:52:54: Err java.net.SocketException: Socket is closed
+2017-09-20 09:01:33: [ Starting server... ]
+2017-09-20 09:01:38: Socket[addr=/127.0.0.1,port=53123,localport=12345]connected.
+2017-09-20 09:01:38: Err java.net.SocketException: Socket is closed
+2017-09-20 09:01:41: Socket[addr=/127.0.0.1,port=53125,localport=12345]connected.
+2017-09-20 09:01:41: Err java.net.SocketException: Socket is closed
+2017-09-20 09:05:18: [ Starting server... ]
+2017-09-20 09:05:20: Socket[addr=/127.0.0.1,port=53168,localport=12345]connected.
+2017-09-20 09:05:20: Err java.net.SocketException: Socket is closed
+2017-09-20 09:07:15: [ Starting server... ]
+2017-09-20 09:07:18: Socket[addr=/127.0.0.1,port=53190,localport=12345]connected.
+2017-09-20 09:07:18: Err java.net.SocketException: Socket is closed
+2017-09-20 09:14:46: [ Starting server... ]
+2017-09-20 09:14:48: Socket[addr=/127.0.0.1,port=53376,localport=12345]connected.
+2017-09-20 09:14:48: Socket[addr=/127.0.0.1,port=53377,localport=12345]connected.
+2017-09-20 09:14:48: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:48: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:48: Socket[addr=/127.0.0.1,port=53378,localport=12345]connected.
+2017-09-20 09:14:48: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:52: Socket[addr=/127.0.0.1,port=53379,localport=12345]connected.
+2017-09-20 09:14:52: Socket[addr=/127.0.0.1,port=53380,localport=12345]connected.
+2017-09-20 09:14:52: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:52: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:52: Socket[addr=/127.0.0.1,port=53381,localport=12345]connected.
+2017-09-20 09:14:52: Err java.net.SocketException: Socket closed
+2017-09-20 09:14:56: Socket[addr=/127.0.0.1,port=53382,localport=12345]connected.
+2017-09-20 09:14:56: Socket[addr=/127.0.0.1,port=53383,localport=12345]connected.
+2017-09-20 09:14:56: Err java.net.SocketException: Socket is closed
+2017-09-20 09:15:16: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 09:25:09: Socket[addr=/127.0.0.1,port=53683,localport=12345]connected.
+2017-09-20 09:25:09: Socket[addr=/127.0.0.1,port=53684,localport=12345]connected.
+2017-09-20 09:25:09: Err java.net.SocketException: Socket is closed
+2017-09-20 09:25:29: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 09:50:17: [ Starting server... ]
+2017-09-20 09:50:24: Socket[addr=/127.0.0.1,port=54112,localport=12345]connected.
+2017-09-20 09:50:24: Socket[addr=/127.0.0.1,port=54113,localport=12345]connected.
+2017-09-20 09:50:40: [ Starting server... ]
+2017-09-20 09:50:41: Socket[addr=/127.0.0.1,port=54123,localport=12345]connected.
+2017-09-20 09:57:13: [ Starting server... ]
+2017-09-20 09:57:22: [ Starting server... ]
+2017-09-20 09:57:24: Socket[addr=/127.0.0.1,port=54133,localport=12345]connected.
+2017-09-20 09:57:24: Socket[addr=/127.0.0.1,port=54134,localport=12345]connected.
+2017-09-20 09:57:44: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 10:00:12: [ Starting server... ]
+2017-09-20 10:00:14: Socket[addr=/127.0.0.1,port=54138,localport=12345]connected.
+2017-09-20 10:00:14: Socket[addr=/127.0.0.1,port=54139,localport=12345]connected.
+2017-09-20 10:00:32: [ Starting server... ]
+2017-09-20 10:00:33: Socket[addr=/127.0.0.1,port=54143,localport=12345]connected.
+2017-09-20 10:00:33: Socket[addr=/127.0.0.1,port=54144,localport=12345]connected.
+2017-09-20 10:00:53: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 10:04:50: Err java.net.SocketException: Socket is closed
+2017-09-20 10:04:55: Socket[addr=/127.0.0.1,port=54340,localport=12345]connected.
+2017-09-20 10:04:55: Socket[addr=/127.0.0.1,port=54341,localport=12345]connected.
+2017-09-20 10:05:05: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:05: Socket[addr=/127.0.0.1,port=54347,localport=12345]connected.
+2017-09-20 10:05:07: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:07: Socket[addr=/127.0.0.1,port=54349,localport=12345]connected.
+2017-09-20 10:05:09: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:12: [ Starting server... ]
+2017-09-20 10:05:14: Socket[addr=/127.0.0.1,port=54351,localport=12345]connected.
+2017-09-20 10:05:14: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:26: Socket[addr=/127.0.0.1,port=54373,localport=12345]connected.
+2017-09-20 10:05:26: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:26: Socket[addr=/127.0.0.1,port=54374,localport=12345]connected.
+2017-09-20 10:05:26: Err java.net.SocketException: Socket is closed
+2017-09-20 10:05:26: Socket[addr=/127.0.0.1,port=54376,localport=12345]connected.
+2017-09-20 10:05:26: Err java.net.SocketException: Socket is closed
+2017-09-20 10:07:15: [ Starting server... ]
+2017-09-20 10:07:15: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 10:07:15: Err [ Program exited. ]
+2017-09-20 10:07:26: [ Starting server... ]
+2017-09-20 10:07:26: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 10:07:26: Err [ Program exited. ]
+2017-09-20 10:07:37: [ Starting server... ]
+2017-09-20 10:07:41: Socket[addr=/127.0.0.1,port=54487,localport=12345]connected.
+2017-09-20 10:08:24: [ Starting server... ]
+2017-09-20 10:08:27: Socket[addr=/127.0.0.1,port=54528,localport=12345]connected.
+2017-09-20 10:10:52: Err java.net.SocketException: Socket is closed
+2017-09-20 10:10:52: Socket[addr=/127.0.0.1,port=54617,localport=12345]connected.
+2017-09-20 10:10:55: [ Starting server... ]
+2017-09-20 10:10:55: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 10:10:55: Err [ Program exited. ]
+2017-09-20 10:11:00: [ Starting server... ]
+2017-09-20 10:11:15: Socket[addr=/127.0.0.1,port=54675,localport=12345]connected.
+2017-09-20 10:11:22: Err java.net.SocketException: Socket is closed
+2017-09-20 10:17:57: [ Starting server... ]
+2017-09-20 10:17:57: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 10:17:57: Err [ Server exited. ]
+2017-09-20 12:26:06: [ Starting server... ]
+2017-09-20 12:26:14: Socket[addr=/127.0.0.1,port=49790,localport=12345]connected.
+2017-09-20 12:26:14: Socket[addr=/127.0.0.1,port=49791,localport=12345]connected.
+2017-09-20 12:26:14: Err java.net.SocketException: Socket is closed
+2017-09-20 12:26:15: Err java.net.SocketException: Socket is closed
+2017-09-20 12:26:31: Socket[addr=/127.0.0.1,port=49794,localport=12345]connected.
+2017-09-20 12:26:31: Socket[addr=/127.0.0.1,port=49795,localport=12345]connected.
+2017-09-20 12:26:31: Socket[addr=/127.0.0.1,port=49796,localport=12345]connected.
+2017-09-20 12:26:31: Socket[addr=/127.0.0.1,port=49797,localport=12345]connected.
+2017-09-20 12:26:31: Err java.net.SocketException: Socket is closed
+2017-09-20 12:26:51: Err java.net.SocketTimeoutException: Read timed out
+2017-09-20 12:27:16: Socket[addr=/127.0.0.1,port=49804,localport=12345]connected.
+2017-09-20 12:27:16: Socket[addr=/127.0.0.1,port=49805,localport=12345]connected.
+2017-09-20 12:27:16: Socket[addr=/127.0.0.1,port=49806,localport=12345]connected.
+2017-09-20 12:27:16: Err java.net.SocketException: Socket is closed
+2017-09-20 12:27:17: Socket[addr=/127.0.0.1,port=49807,localport=12345]connected.
+2017-09-20 12:27:17: Err java.net.SocketException: Socket is closed
+2017-09-20 12:27:20: Err java.net.SocketException: Socket is closed
+2017-09-20 12:29:41: [ Starting server... ]
+2017-09-20 12:29:45: Socket[addr=/127.0.0.1,port=49869,localport=12345]connected.
+2017-09-20 12:29:45: Err java.net.SocketException: Socket is closed
+2017-09-20 12:29:59: [ Starting server... ]
+2017-09-20 12:30:02: Socket[addr=/127.0.0.1,port=49873,localport=12345]connected.
+2017-09-20 12:30:02: Err java.net.SocketException: Socket is closed
+2017-09-20 12:32:09: [ Starting server... ]
+2017-09-20 12:32:12: Socket[addr=/127.0.0.1,port=49890,localport=12345]connected.
+2017-09-20 12:32:55: [ Starting server... ]
+2017-09-20 12:32:56: Socket[addr=/127.0.0.1,port=49901,localport=12345]connected.
+2017-09-20 12:32:59: Socket[addr=/127.0.0.1,port=49902,localport=12345]connected.
+2017-09-20 12:33:43: [ Starting server... ]
+2017-09-20 12:33:46: Socket[addr=/127.0.0.1,port=49911,localport=12345]connected.
+2017-09-20 12:34:50: [ Starting server... ]
+2017-09-20 12:34:52: Socket[addr=/127.0.0.1,port=49921,localport=12345]connected.
+2017-09-20 12:35:53: [ Starting server... ]
+2017-09-20 12:35:55: Socket[addr=/127.0.0.1,port=49935,localport=12345]connected.
+2017-09-20 12:36:32: Err java.net.SocketException: Socket is closed
+2017-09-20 13:07:00: [ Starting server... ]
+2017-09-20 13:07:02: Socket[addr=/127.0.0.1,port=50402,localport=12345]connected.
+2017-09-20 13:07:02: Err java.net.SocketException: Socket is closed
+2017-09-20 13:07:05: Socket[addr=/127.0.0.1,port=50404,localport=12345]connected.
+2017-09-20 13:07:05: Socket[addr=/127.0.0.1,port=50405,localport=12345]connected.
+2017-09-20 13:07:05: Err java.net.SocketException: Socket is closed
+2017-09-20 13:07:25: [ Starting server... ]
+2017-09-20 13:07:27: Socket[addr=/127.0.0.1,port=50409,localport=12345]connected.
+2017-09-20 13:07:27: Socket[addr=/127.0.0.1,port=50410,localport=12345]connected.
+2017-09-20 13:07:27: Err java.net.SocketException: Socket is closed
+2017-09-20 13:07:29: Err java.lang.NumberFormatException: For input string: "Mickey"
+2017-09-20 13:07:29: Socket[addr=/127.0.0.1,port=50412,localport=12345]connected.
+2017-09-20 13:07:29: Err java.lang.NumberFormatException: For input string: "Mickey"
+2017-09-20 13:07:29: Socket[addr=/127.0.0.1,port=50413,localport=12345]connected.
+2017-09-20 13:07:29: Err java.lang.NumberFormatException: For input string: "Mickey"
+2017-09-20 13:07:33: Socket[addr=/127.0.0.1,port=50414,localport=12345]connected.
+2017-09-20 13:07:33: Socket[addr=/127.0.0.1,port=50415,localport=12345]connected.
+2017-09-20 13:07:57: [ Starting server... ]
+2017-09-20 13:07:57: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 13:07:57: Err [ Server exited. ]
+2017-09-20 13:08:05: [ Starting server... ]
+2017-09-20 13:08:08: Socket[addr=/127.0.0.1,port=50429,localport=12345]connected.
+2017-09-20 13:08:08: Socket[addr=/127.0.0.1,port=50430,localport=12345]connected.
+2017-09-20 13:08:08: Err java.net.SocketException: Socket is closed
+2017-09-20 13:08:10: Err java.net.SocketException: Socket is closed
+2017-09-20 13:08:12: Socket[addr=/127.0.0.1,port=50432,localport=12345]connected.
+2017-09-20 13:08:12: Socket[addr=/127.0.0.1,port=50433,localport=12345]connected.
+2017-09-20 13:08:14: Err java.net.SocketException: Socket is closed
+2017-09-20 13:08:16: Socket[addr=/127.0.0.1,port=50434,localport=12345]connected.
+2017-09-20 14:09:20: Socket[addr=/127.0.0.1,port=50929,localport=12345]connected.
+2017-09-20 14:09:20: Socket[addr=/127.0.0.1,port=50930,localport=12345]connected.
+2017-09-20 14:09:20: Err java.net.SocketException: Socket is closed
+2017-09-20 14:09:22: Socket[addr=/127.0.0.1,port=50932,localport=12345]connected.
+2017-09-20 14:09:22: Err java.net.SocketException: Socket is closed
+2017-09-20 14:09:25: Err java.net.SocketException: Socket is closed
+2017-09-20 14:09:26: Socket[addr=/127.0.0.1,port=50934,localport=12345]connected.
+2017-09-20 14:09:26: Socket[addr=/127.0.0.1,port=50935,localport=12345]connected.
+2017-09-20 14:09:27: Err java.net.SocketException: Socket is closed
+2017-09-20 14:09:28: Socket[addr=/127.0.0.1,port=50937,localport=12345]connected.
+2017-09-20 14:09:33: Err java.net.SocketException: Socket is closed
+2017-09-20 14:09:39: Socket[addr=/127.0.0.1,port=50940,localport=12345]connected.
+2017-09-20 14:09:39: Socket[addr=/127.0.0.1,port=50941,localport=12345]connected.
+2017-09-20 14:23:02: [ Starting server... ]
+2017-09-20 14:23:05: Socket[addr=/127.0.0.1,port=51042,localport=12345]connected.
+2017-09-20 14:23:05: Socket[addr=/127.0.0.1,port=51043,localport=12345]connected.
+2017-09-20 14:23:05: Err java.net.SocketException: Socket is closed
+2017-09-20 14:23:57: [ Starting server... ]
+2017-09-20 14:24:54: [ Starting server... ]
+2017-09-20 14:24:57: Socket[addr=/127.0.0.1,port=51103,localport=12345]connected.
+2017-09-20 14:24:57: Socket[addr=/127.0.0.1,port=51104,localport=12345]connected.
+2017-09-20 14:24:57: Err java.net.SocketException: Socket is closed
+2017-09-20 14:26:01: Socket[addr=/127.0.0.1,port=51117,localport=12345]connected.
+2017-09-20 14:26:01: Err java.net.SocketException: Socket is closed
+2017-09-20 14:27:13: [ Starting server... ]
+2017-09-20 14:27:13: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 14:27:13: Err [ Server exited. ]
+2017-09-20 14:27:20: [ Starting server... ]
+2017-09-20 14:27:24: Socket[addr=/127.0.0.1,port=51139,localport=12345]connected.
+2017-09-20 14:27:24: Socket[addr=/127.0.0.1,port=51140,localport=12345]connected.
+2017-09-20 14:28:32: [ Starting server... ]
+2017-09-20 14:28:35: Socket[addr=/127.0.0.1,port=51155,localport=12345]connected.
+2017-09-20 14:28:35: Socket[addr=/127.0.0.1,port=51156,localport=12345]connected.
+2017-09-20 14:28:40: Socket[addr=/127.0.0.1,port=51159,localport=12345]connected.
+2017-09-20 14:28:43: Socket[addr=/127.0.0.1,port=51161,localport=12345]connected.
+2017-09-20 14:28:50: [ Starting server... ]
+2017-09-20 14:28:58: Socket[addr=/127.0.0.1,port=51165,localport=12345]connected.
+2017-09-20 14:28:58: Socket[addr=/127.0.0.1,port=51166,localport=12345]connected.
+2017-09-20 14:29:36: [ Starting server... ]
+2017-09-20 14:29:38: Socket[addr=/127.0.0.1,port=51174,localport=12345]connected.
+2017-09-20 14:29:38: Socket[addr=/127.0.0.1,port=51175,localport=12345]connected.
+2017-09-20 14:29:41: Socket[addr=/127.0.0.1,port=51176,localport=12345]connected.
+2017-09-20 14:29:44: Socket[addr=/127.0.0.1,port=51178,localport=12345]connected.
+2017-09-20 14:30:37: [ Starting server... ]
+2017-09-20 14:30:45: Socket[addr=/127.0.0.1,port=51190,localport=12345]connected.
+2017-09-20 14:30:45: Socket[addr=/127.0.0.1,port=51191,localport=12345]connected.
+2017-09-20 14:31:36: [ Starting server... ]
+2017-09-20 14:31:38: Socket[addr=/127.0.0.1,port=51200,localport=12345]connected.
+2017-09-20 14:31:38: Socket[addr=/127.0.0.1,port=51201,localport=12345]connected.
+2017-09-20 14:31:38: Err java.net.SocketException: Socket is closed
+2017-09-20 14:32:18: [ Starting server... ]
+2017-09-20 14:32:21: Socket[addr=/127.0.0.1,port=51209,localport=12345]connected.
+2017-09-20 14:32:21: Socket[addr=/127.0.0.1,port=51210,localport=12345]connected.
+2017-09-20 14:32:21: Err java.net.SocketException: Socket is closed
+2017-09-20 14:32:42: [ Starting server... ]
+2017-09-20 14:32:44: Socket[addr=/127.0.0.1,port=51218,localport=12345]connected.
+2017-09-20 14:32:44: Socket[addr=/127.0.0.1,port=51219,localport=12345]connected.
+2017-09-20 14:33:10: [ Starting server... ]
+2017-09-20 14:33:12: Socket[addr=/127.0.0.1,port=51229,localport=12345]connected.
+2017-09-20 14:33:12: Socket[addr=/127.0.0.1,port=51230,localport=12345]connected.
+2017-09-20 14:33:22: [ Starting server... ]
+2017-09-20 14:33:24: Socket[addr=/127.0.0.1,port=51234,localport=12345]connected.
+2017-09-20 14:33:24: Socket[addr=/127.0.0.1,port=51235,localport=12345]connected.
+2017-09-20 14:34:08: [ Starting server... ]
+2017-09-20 14:34:10: Socket[addr=/127.0.0.1,port=51250,localport=12345]connected.
+2017-09-20 14:34:10: Socket[addr=/127.0.0.1,port=51251,localport=12345]connected.
+2017-09-20 14:39:21: [ Starting server... ]
+2017-09-20 14:39:26: [ Starting server... ]
+2017-09-20 14:39:28: Socket[addr=/127.0.0.1,port=51303,localport=12345]connected.
+2017-09-20 14:39:28: Socket[addr=/127.0.0.1,port=51304,localport=12345]connected.
+2017-09-20 14:39:42: Socket[addr=/127.0.0.1,port=51307,localport=12345]connected.
+2017-09-20 14:39:53: Socket[addr=/127.0.0.1,port=51309,localport=12345]connected.
+2017-09-20 14:39:53: Socket[addr=/127.0.0.1,port=51310,localport=12345]connected.
+2017-09-20 14:40:00: Socket[addr=/127.0.0.1,port=51312,localport=12345]connected.
+2017-09-20 14:40:01: Socket[addr=/127.0.0.1,port=51313,localport=12345]connected.
+2017-09-20 14:40:03: Socket[addr=/127.0.0.1,port=51314,localport=12345]connected.
+2017-09-20 14:40:05: Socket[addr=/127.0.0.1,port=51315,localport=12345]connected.
+2017-09-20 14:40:06: Socket[addr=/127.0.0.1,port=51316,localport=12345]connected.
+2017-09-20 14:46:55: [ Starting server... ]
+2017-09-20 14:46:58: Socket[addr=/127.0.0.1,port=51632,localport=12345]connected.
+2017-09-20 14:46:58: Socket[addr=/127.0.0.1,port=51633,localport=12345]connected.
+2017-09-20 14:47:54: Socket[addr=/127.0.0.1,port=51647,localport=12345]connected.
+2017-09-20 14:47:54: Socket[addr=/127.0.0.1,port=51648,localport=12345]connected.
+2017-09-20 14:48:21: Socket[addr=/127.0.0.1,port=51660,localport=12345]connected.
+2017-09-20 14:48:21: Socket[addr=/127.0.0.1,port=51661,localport=12345]connected.
+2017-09-20 14:48:33: Socket[addr=/127.0.0.1,port=51665,localport=12345]connected.
+2017-09-20 14:48:33: Socket[addr=/127.0.0.1,port=51666,localport=12345]connected.
+2017-09-20 14:48:38: Socket[addr=/127.0.0.1,port=51668,localport=12345]connected.
+2017-09-20 14:48:56: Socket[addr=/127.0.0.1,port=51671,localport=12345]connected.
+2017-09-20 14:48:56: Socket[addr=/127.0.0.1,port=51672,localport=12345]connected.
+2017-09-20 14:48:56: Socket[addr=/127.0.0.1,port=51673,localport=12345]connected.
+2017-09-20 14:48:56: Socket[addr=/127.0.0.1,port=51674,localport=12345]connected.
+2017-09-20 14:48:56: Socket[addr=/127.0.0.1,port=51675,localport=12345]connected.
+2017-09-20 14:49:04: Socket[addr=/127.0.0.1,port=51676,localport=12345]connected.
+2017-09-20 14:49:04: Socket[addr=/127.0.0.1,port=51677,localport=12345]connected.
+2017-09-20 14:49:04: Socket[addr=/127.0.0.1,port=51678,localport=12345]connected.
+2017-09-20 14:49:04: Socket[addr=/127.0.0.1,port=51679,localport=12345]connected.
+2017-09-20 14:49:04: Socket[addr=/127.0.0.1,port=51680,localport=12345]connected.
+2017-09-20 14:49:06: Socket[addr=/127.0.0.1,port=51682,localport=12345]connected.
+2017-09-20 14:49:06: Socket[addr=/127.0.0.1,port=51683,localport=12345]connected.
+2017-09-20 14:49:06: Socket[addr=/127.0.0.1,port=51684,localport=12345]connected.
+2017-09-20 14:49:06: Socket[addr=/127.0.0.1,port=51685,localport=12345]connected.
+2017-09-20 14:49:06: Socket[addr=/127.0.0.1,port=51686,localport=12345]connected.
+2017-09-20 14:49:13: Socket[addr=/127.0.0.1,port=51690,localport=12345]connected.
+2017-09-20 14:49:13: Socket[addr=/127.0.0.1,port=51691,localport=12345]connected.
+2017-09-20 14:49:13: Socket[addr=/127.0.0.1,port=51692,localport=12345]connected.
+2017-09-20 14:49:13: Socket[addr=/127.0.0.1,port=51693,localport=12345]connected.
+2017-09-20 14:49:13: Socket[addr=/127.0.0.1,port=51694,localport=12345]connected.
+2017-09-20 14:49:14: Socket[addr=/127.0.0.1,port=51695,localport=12345]connected.
+2017-09-20 14:56:08: Socket[addr=/127.0.0.1,port=51927,localport=12345]connected.
+2017-09-20 14:56:17: Socket[addr=/127.0.0.1,port=51931,localport=12345]connected.
+2017-09-20 14:57:57: Socket[addr=/127.0.0.1,port=51971,localport=12345]connected.
+2017-09-20 14:58:01: Socket[addr=/127.0.0.1,port=51979,localport=12345]connected.
+2017-09-20 14:58:13: [ Starting server... ]
+2017-09-20 14:58:28: Socket[addr=/127.0.0.1,port=52054,localport=12345]connected.
+2017-09-20 15:00:22: [ Starting server... ]
+2017-09-20 15:00:29: Socket[addr=/127.0.0.1,port=52092,localport=12345]connected.
+2017-09-20 15:00:47: [ Starting server... ]
+2017-09-20 15:05:35: [ Starting server... ]
+2017-09-20 15:05:35: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 15:05:35: Err [ Server exited. ]
+2017-09-20 15:05:42: Socket[addr=/127.0.0.1,port=52132,localport=12345]connected.
+2017-09-20 15:05:42: Socket[addr=/127.0.0.1,port=52132,localport=12345]disconnected.
+2017-09-20 15:05:47: Socket[addr=/127.0.0.1,port=52134,localport=12345]connected.
+2017-09-20 15:05:47: Socket[addr=/127.0.0.1,port=52134,localport=12345]disconnected.
+2017-09-20 15:19:41: [ Starting server... ]
+2017-09-20 15:19:41: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 15:19:41: Err [ Server exited. ]
+2017-09-20 15:19:44: [ Starting server... ]
+2017-09-20 15:19:52: Socket[addr=/127.0.0.1,port=52612,localport=12345]connected.
+2017-09-20 15:19:52: Socket[addr=/127.0.0.1,port=52612,localport=12345]disconnected.
+2017-09-20 15:19:53: Socket[addr=/127.0.0.1,port=52613,localport=12345]connected.
+2017-09-20 15:19:53: Socket[addr=/127.0.0.1,port=52613,localport=12345]disconnected.
+2017-09-20 15:20:01: Socket[addr=/127.0.0.1,port=52615,localport=12345]connected.
+2017-09-20 15:20:01: Socket[addr=/127.0.0.1,port=52615,localport=12345]disconnected.
+2017-09-20 15:20:24: Socket[addr=/127.0.0.1,port=52622,localport=12345]connected.
+2017-09-20 15:20:24: Socket[addr=/127.0.0.1,port=52622,localport=12345]disconnected.
+2017-09-20 15:20:50: [ Starting server... ]
+2017-09-20 15:20:50: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 15:20:50: Err [ Server exited. ]
+2017-09-20 15:20:54: [ Starting server... ]
+2017-09-20 15:20:57: Socket[addr=/127.0.0.1,port=52633,localport=12345]connected.
+2017-09-20 15:21:35: [ Starting server... ]
+2017-09-20 15:21:38: Socket[addr=/127.0.0.1,port=52645,localport=12345]connected.
+2017-09-20 15:21:38: Socket[addr=/127.0.0.1,port=52645,localport=12345]disconnected.
+2017-09-20 15:24:13: [ Starting server... ]
+2017-09-20 15:24:23: [ Starting server... ]
+2017-09-20 15:24:36: Socket[addr=/127.0.0.1,port=52706,localport=12345]connected.
+2017-09-20 15:24:36: Socket[addr=/127.0.0.1,port=52706,localport=12345]disconnected.
+2017-09-20 15:24:38: Socket[addr=/127.0.0.1,port=52707,localport=12345]connected.
+2017-09-20 15:24:38: Socket[addr=/127.0.0.1,port=52707,localport=12345]disconnected.
+2017-09-20 15:24:42: Socket[addr=/127.0.0.1,port=52709,localport=12345]connected.
+2017-09-20 15:24:42: Socket[addr=/127.0.0.1,port=52709,localport=12345]disconnected.
+2017-09-20 15:24:46: Socket[addr=/127.0.0.1,port=52710,localport=12345]connected.
+2017-09-20 15:24:46: Socket[addr=/127.0.0.1,port=52710,localport=12345]disconnected.
+2017-09-20 15:24:46: Socket[addr=/127.0.0.1,port=52711,localport=12345]connected.
+2017-09-20 15:24:46: Socket[addr=/127.0.0.1,port=52711,localport=12345]disconnected.
+2017-09-20 15:26:14: Socket[addr=/127.0.0.1,port=52723,localport=12345]connected.
+2017-09-20 15:26:14: Socket[addr=/127.0.0.1,port=52723,localport=12345]disconnected.
+2017-09-20 15:26:36: [ Starting server... ]
+2017-09-20 15:26:36: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 15:26:36: Err [ Server exited. ]
+2017-09-20 15:26:42: Socket[addr=/127.0.0.1,port=52728,localport=12345]connected.
+2017-09-20 15:26:43: Socket[addr=/127.0.0.1,port=52728,localport=12345]disconnected.
+2017-09-20 15:27:34: [ Starting server... ]
+2017-09-20 15:27:35: Err Server start failed: java.net.BindException: Address already in use (Bind failed)
+2017-09-20 15:27:35: Err [ Server exited. ]
+2017-09-20 15:27:42: [ Starting server... ]
+2017-09-20 15:27:45: Socket[addr=/127.0.0.1,port=52738,localport=12345]connected.
+2017-09-20 15:27:45: Socket[addr=/127.0.0.1,port=52738,localport=12345]disconnected.
+2017-09-20 15:27:50: Socket[addr=/127.0.0.1,port=52740,localport=12345]connected.
+2017-09-20 15:27:50: Socket[addr=/127.0.0.1,port=52740,localport=12345]disconnected.
+2017-09-20 15:27:54: Socket[addr=/127.0.0.1,port=52742,localport=12345]connected.
+2017-09-20 15:27:54: Socket[addr=/127.0.0.1,port=52742,localport=12345]disconnected.
+2017-09-20 15:28:00: Socket[addr=/127.0.0.1,port=52743,localport=12345]connected.
+2017-09-20 15:28:00: Socket[addr=/127.0.0.1,port=52743,localport=12345]disconnected.
+2017-09-20 15:28:02: Socket[addr=/127.0.0.1,port=52745,localport=12345]connected.
+2017-09-20 15:28:02: Socket[addr=/127.0.0.1,port=52745,localport=12345]disconnected.
+2017-09-20 16:31:47: [ Starting server... ]
+2017-09-20 16:32:04: Socket[addr=/127.0.0.1,port=53883,localport=12345]connected.
+2017-09-20 16:32:04: Socket[addr=/127.0.0.1,port=53883,localport=12345]disconnected.
+2017-09-20 16:32:09: Socket[addr=/127.0.0.1,port=53892,localport=12345]connected.
+2017-09-20 16:32:09: Socket[addr=/127.0.0.1,port=53892,localport=12345]disconnected.
+2017-09-20 16:32:10: Socket[addr=/127.0.0.1,port=53893,localport=12345]connected.
+2017-09-20 16:32:10: Socket[addr=/127.0.0.1,port=53893,localport=12345]disconnected.
+2017-09-20 16:34:57: [ Starting server... ]
+2017-09-20 16:35:00: Socket[addr=/127.0.0.1,port=53939,localport=12345]connected.
+2017-09-20 16:36:10: [ Starting server... ]
+2017-09-20 16:36:20: Socket[addr=/127.0.0.1,port=53951,localport=12345]connected.
+2017-09-20 16:36:20: Socket[addr=/127.0.0.1,port=53951,localport=12345]disconnected.
+2017-09-20 16:36:25: Socket[addr=/127.0.0.1,port=53952,localport=12345]connected.
+2017-09-20 16:36:25: Socket[addr=/127.0.0.1,port=53952,localport=12345]disconnected.
+2017-09-20 16:36:28: Socket[addr=/127.0.0.1,port=53954,localport=12345]connected.
+2017-09-20 16:36:28: Socket[addr=/127.0.0.1,port=53954,localport=12345]disconnected.
+2017-09-20 16:36:34: Socket[addr=/127.0.0.1,port=53955,localport=12345]connected.
+2017-09-20 16:36:34: Socket[addr=/127.0.0.1,port=53955,localport=12345]disconnected.

@@ -1,0 +1,48 @@
+<!doctype HTML>
+<HTML>
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+img{ max-width:100%;}
+video{ max-width:100%; height:auto;}
+header ul li{ float:left; list-style:none; list-style-type:none; margin-right:10px;}
+header select{display:none;}
+@media (max-width:960px){
+	header ul{ display:none;}
+	header select{ display:inline-block;}
+}
+</style>
+</head>
+<body>
+<header>
+	<h3>Welcome visite my personal webserver</h3>
+	<p>This webside used by WxZou's jtinyhttpd.</p>
+</header>
+<br/>
+
+<form action="color" method="get"> 
+<label>请选择颜色</label> 
+<select name="color"> 
+<option value="red">red</option> 
+<option value="green">green</option> 
+<option value="blue">blue</option> 
+<option value="white">white</option> 
+<option value="gray">gray</option> 
+<option value="yellow">yellow</option> 
+<option value="violet">violet</option> 
+<input type="submit" value="SubmitColor">
+</select> 
+</form> 
+<br/>
+<br/>
+<br/>
+<form action="/add">
+a :<br>
+<input type="text" name="firstname" value="111">
+<br>
+b :<br>
+<input type="text" name="lastname" value="222">
+<br><br>
+<input type="submit" value="Submit">
+</form> 
+</body>
